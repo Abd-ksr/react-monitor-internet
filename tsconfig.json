@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "strict": true,
+      "noImplicitAny": true,
+      "esModuleInterop": true,
+      "strictNullChecks": true,
+      "target": "ESNext",
+      "module": "esnext",
+      "declaration": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "outDir": "dist",
+      "jsx": "react",
+     "lib": ["es6", "es7", "esnext", "dom"],
+  },
+  "exclude": ["node_modules"]
+}
