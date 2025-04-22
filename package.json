@@ -1,7 +1,7 @@
 {
   "name": "react-monitor-internet",
-  "version": "1.0.0",
-  "description": "Monitor your internet connection in real-time with this React hook, which constantly checks behind the scene to determine whether the network is online or offline.",
+  "version": "1.1.0",
+  "description": "Monitor your internet connection in real-time with this React hook, which constantly checks behind the scene to determine whether the internet connection is online or offline.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -15,10 +15,14 @@
     "real time network status",
     "detect connection",
     "is online",
-    "check internet"    
+    "check internet connection"    
   ],
   "author": "abd-ksr",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abd-ksr/react-monitor-internet"
+  },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
     "react-dom": "^17.0.0 || ^18.0.0 || ^19.0.0"
