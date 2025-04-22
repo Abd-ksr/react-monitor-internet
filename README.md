@@ -1,9 +1,5 @@
 # react-monitor-internet
 
-[![Version Badge][npm-version-svg]][package-url]
-[![GZipped size][npm-minzip-svg]][bundlephobia-url]
-[![License][license-image]][license-url]
-
 Monitor your internet connection in real-time with this React hook, which constantly checks behind the scene to determine whether the internet connection is online or offline.
 
 ## Features
